@@ -1,26 +1,37 @@
-# Michael David Ream | Architect of Hexcore LLC
-**Managing Member | U.S. Army Veteran (Manchu 2/9 INF) | High-Precision Engineer**
+# ⬢ Hexcore Sovereign Ops LLC | Archive: mikeream889
+
+> **Status:** Operational | **Logic:** Committed | **Precision:** Zero-Tolerance
+
+## Mission & Sovereignty
+Hexcore Sovereign Ops LLC is an industrial architecture firm specializing in the intersection of high-precision subtractive kinematics and advanced spectral systems. Founded by Michael David Ream, we provide hardened solutions for the defense industrial base and sovereign creative entities.
 
 ---
 
-## ⚡ Technical Mandate: Condition Alpha
-I operate on **Industrial Truth**. My work centers on the intersection of subtractive kinematics, biomechanical logistics, and non-deceptive systems architecture. 
+## Operational Verticals
 
-### 🏛️ Legal & Sovereign Status
-* **Entity:** Hexcore Sovereign Ops LLC (Filing Ref: 254802599)
-* **Status:** Living Person operating as a Primary Contractor.
-* **Doctrine:** "Keep Up" (2/9 Infantry). 
+### 1. Subtractive Kinematics & Industrial CNC
+Expert-level optimization for CNC platforms (Mori Seiki NV5000 / FANUC). 
+* **Focus:** High-precision manufacturing, G-code hardening, and DoD supply chain logistics.
+* **Philosophy:** No-frills, non-deceptive industrial execution.
+
+### 2. The Spectral Engine & Audio Research
+The architectural framework for Appalachian "Fearfolk" and experimental death metal production.
+* **Project:** *The Winter of Ash: A Cosmic Reckoning*
+* **Project:** *Fatal Murmurs* (EP: *Death Threat*, released 2024-08-13)
+* **Goal:** High-fidelity signal processing and sovereign audio synthesis.
+
+### 3. IP Governance (HPOL v1.1)
+All technical and creative assets within this archive are governed by the **Hardened Precision Operational License (HPOL v1.1)**. This ensures that our logic remains protected from deceptive commercial exploitation.
+
+---
+
+## Security & Compliance
+* **Automated Audits:** All pushes are scanned by the Hexcore-Vault for operational integrity.
+* **Vulnerability Reporting:** See [SECURITY.md](./SECURITY.md) for non-deceptive reporting protocols.
 
 ---
 
-## 🛠️ Core Research & Development
-* **Subtractive Kinematics:** High-Efficiency Milling (HEM) for superalloys (Inconel 718, Ti-6Al-4V).
-* **VapeCycle:** Closed-loop hydrometallurgical recovery for lithium-ion e-waste.
-* **Spectral Engine:** Wave-dynamic architecture for frequency isolation.
+## 🏁 Final Protocol
+"The machine is homed. The logic is committed. Keep up."
 
-## 🎯 Strategic Engagement
-* **Contracting:** Accepting Tier 2/3 Aerospace and Defense subcontracts.
-* **Licensing:** All assets protected under **HPOL v1.1**.
-
----
-© 2026 HEXCORE SOVEREIGN OPS LLC. ALL RIGHTS RESERVED.
+© 2026 Hexcore Sovereign Ops LLC. All Rights Reserved.
